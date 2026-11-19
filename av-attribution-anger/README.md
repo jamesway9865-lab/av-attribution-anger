@@ -57,15 +57,4 @@ analysis, so all results are exactly reproducible. R and package versions used f
 - **Variation across errors.** Between-error heterogeneity (τ) of the AV–HV difference in anger (Cohen's *d*), estimated by subtracting the mean bootstrap sampling variance from the observed variance; 95% prediction interval.
 - **Study 2.** Information effects in mixed models with control as reference; Holm correction for the eight primary tests; Benjamini–Hochberg FDR for error-specific comparisons.
 
-## Data notes
-
-- Study 2: of the 800 randomised participants, 77 whose rating of the targeted perception decreased after the information were excluded (ability condition 33, rule-compliance condition 44). The data contain the 723 retained participants; this exclusion cannot be reproduced from the shared files.
-- In the AV version of Study 1, the blame item for three conditions (slow vehicle ahead, sudden braking, stopping behind an obstacle) referred to "the driver of the vehicle ahead"; blame is therefore a secondary outcome (see `code/04_robustness_blame_wording.R`).
-- The questionnaires were part of a larger project; measures not reported in the paper are not included.
-
-## License and citation
-
-License: [to be added by the authors, e.g. CC BY 4.0 for the data and MIT for the code].
-Please cite the article (see `CITATION.cff`).
-
 Contact: Weina Qu, Institute of Psychology, Chinese Academy of Sciences (quwn@psych.ac.cn).
