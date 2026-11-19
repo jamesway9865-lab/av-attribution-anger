@@ -1,0 +1,9 @@
+﻿check,stat,p,detail
+"ability pre-test, 3 groups","F(2,720) = 1.28",0.27956934691474056,control: 5.34; ability: 5.26; rule: 5.41
+ability after message (control: pre-test),"F(2,720) = 27.22",4.02620118071651e-12,control: 5.34; ability: 6.00; rule: 5.85
+ability change within ability message,t(266) = 15.20,5.507747038935877e-38,"pre 5.26, post 6.00, change 0.74, dz = 0.93"
+ability change within rule-compliance message,t(255) = 8.29,6.3813316149895125e-15,"pre 5.41, post 5.85, change 0.43, dz = 0.52"
+"normativity pre-test, 3 groups","F(2,720) = 0.35",0.7056019318214167,control: 6.00; ability: 6.06; rule: 6.08
+normativity after message (control: pre-test),"F(2,720) = 12.21",6.09753812007823e-06,control: 6.00; ability: 6.29; rule: 6.44
+normativity change within ability message,t(266) = 5.68,3.606889012066936e-08,"pre 6.06, post 6.29, change 0.22, dz = 0.35"
+normativity change within rule-compliance message,t(255) = 9.85,1.2758363017085555e-19,"pre 6.08, post 6.44, change 0.36, dz = 0.62"
